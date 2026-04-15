@@ -18,28 +18,28 @@ Un NaN mal tratado → modelo mal entrenado → decisiones erróneas
 
 🔹 Tipos de testing:
 
-Unit Testing → funciones individuales
-Integration Testing → interacción entre partes
-End-to-End Testing → flujo completo
+Unit Testing → funciones individuales   
+Integration Testing → interacción entre partes  
+End-to-End Testing → flujo completo 
 
 🔹 Conceptos importantes:
 
-Test case → caso concreto a validar
-Assertion → comprobación (assert)
-Fixture → datos de prueba reutilizables
-Coverage → % de código testeado
+Test case → caso concreto a validar 
+Assertion → comprobación (assert)   
+Fixture → datos de prueba reutilizables 
+Coverage → % de código testeado 
 
 🔹 Buenas prácticas:
 
-✔ Tests simples
-✔ Independientes
-✔ Repetibles
-✔ Rápidos
+✔ Tests simples    
+✔ Independientes   
+✔ Repetibles   
+✔ Rápidos  
 
 3️⃣ Testing en Python
 
 🐍 Herramientas principales:
 
-pytest → la más usada
-unittest → estándar de Python
-pandas → testing utilities
+pytest → la más usada   
+unittest → estándar de Python   
+pandas → testing utilities  
