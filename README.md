@@ -1,4 +1,4 @@
-1️⃣ Introducción 
+1️⃣ Introducción
 
 💡 ¿Qué es el testing?
 
@@ -7,36 +7,29 @@ El testing es el proceso de verificar que nuestro código hace lo que debería.
 👉 En Data:
 
 Validar transformaciones
-
 Detectar errores silenciosos
-
 Evitar resultados incorrectos en análisis
 
 🚨 Ejemplo real
 
 Un NaN mal tratado → modelo mal entrenado → decisiones erróneas
 
-2️⃣ Conceptos clave 
+2️⃣ Conceptos clave
 
-🔹 Tipos de testing
+🔹 Tipos de testing:
 
 Unit Testing → funciones individuales
-
 Integration Testing → interacción entre partes
-
 End-to-End Testing → flujo completo
 
-🔹 Conceptos importantes
+🔹 Conceptos importantes:
 
 Test case → caso concreto a validar
-
 Assertion → comprobación (assert)
-
 Fixture → datos de prueba reutilizables
-
 Coverage → % de código testeado
 
-🔹 Buenas prácticas
+🔹 Buenas prácticas:
 
 ✔ Tests simples
 ✔ Independientes
@@ -45,10 +38,8 @@ Coverage → % de código testeado
 
 3️⃣ Testing en Python
 
-🐍 Herramientas principales
+🐍 Herramientas principales:
 
 pytest → la más usada
-
 unittest → estándar de Python
-
 pandas → testing utilities
