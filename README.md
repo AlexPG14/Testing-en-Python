@@ -43,3 +43,7 @@ Coverage → % de código testeado
 pytest → la más usada   
 unittest → estándar de Python   
 pandas → testing utilities  
+
+
+
+# 4️⃣Link presentación  [Testing en Python](https://gamma.app/docs/Testing-en-Python-para-Data-Analysts-1r151dmyf0ucrr6)
