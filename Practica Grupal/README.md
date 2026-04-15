@@ -20,6 +20,7 @@ Para ello, contaréis con una única herramienta fiable en este entorno hostil:
 pytest.
 
 ## 🧭 PROTOCOLO DE INTERVENCIÓN
+
 Formad equipos operativos de 2–3 agentes
 Inspeccionad el código proporcionado
 Diseñad tests que expongan los fallos ocultos
